@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 202.1 289.8">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #2e5aac;
+        stroke-miterlimit: 10;
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <g id="Group_242" data-name="Group 242" transform="translate(-687 -26)">
+    <path id="Path_373" data-name="Path 373" class="cls-1" d="M886.6,35.3V306.5a6.807,6.807,0,0,1-6.8,6.8H696.3a6.807,6.807,0,0,1-6.8-6.8V35.3a6.807,6.807,0,0,1,6.8-6.8H879.9A6.723,6.723,0,0,1,886.6,35.3Z"/>
+    <path id="Path_374" data-name="Path 374" class="cls-1" d="M811.3,74.7a24.1,24.1,0,1,1-24.1-24.1A24.113,24.113,0,0,1,811.3,74.7Z"/>
+    <path id="Path_375" data-name="Path 375" class="cls-1" d="M858.1,69.6H833.7a5.2,5.2,0,1,0,0,10.4h24.4a5.2,5.2,0,1,0,0-10.4Z"/>
+    <path id="Path_376" data-name="Path 376" class="cls-1" d="M745.8,74.7a5.164,5.164,0,0,0-5.2-5.2H716.2a5.2,5.2,0,1,0,0,10.4h24.4A5.164,5.164,0,0,0,745.8,74.7Z"/>
+    <g id="Group_233" data-name="Group 233">
+      <path id="Path_377" data-name="Path 377" class="cls-1" d="M846.1,118.9H728.3a5.2,5.2,0,1,0,0,10.4H846.1a5.2,5.2,0,1,0,0-10.4Z"/>
+      <path id="Path_378" data-name="Path 378" class="cls-1" d="M846.1,144.1H728.3a5.2,5.2,0,1,0,0,10.4H846.1a5.2,5.2,0,1,0,0-10.4Z"/>
+      <path id="Path_379" data-name="Path 379" class="cls-1" d="M846.1,169.3H728.3a5.2,5.2,0,1,0,0,10.4H846.1a5.2,5.2,0,1,0,0-10.4Z"/>
+      <path id="Path_380" data-name="Path 380" class="cls-1" d="M846.1,194.5H728.3a5.2,5.2,0,1,0,0,10.4H846.1a5.2,5.2,0,1,0,0-10.4Z"/>
+      <path id="Path_381" data-name="Path 381" class="cls-1" d="M846.1,219.7H728.3a5.2,5.2,0,1,0,0,10.4H846.1a5.2,5.2,0,1,0,0-10.4Z"/>
+    </g>
+    <path id="Path_382" data-name="Path 382" class="cls-1" d="M848.3,246a5.213,5.213,0,0,0-7.3.7L816.2,277l-11.5-11.3a5.222,5.222,0,0,0-7.4.1,5.1,5.1,0,0,0,.1,7.3l12.9,12.6a8.567,8.567,0,0,0,6,2.5A8.477,8.477,0,0,0,823,285l26-31.7A5.048,5.048,0,0,0,848.3,246Z"/>
+  </g>
+</svg>
